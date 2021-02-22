@@ -17,4 +17,3 @@ var topFive = ["iCarly", "Great Pretender", "Code Lyoko", "One Piece", "Attack o
     console.log("My #3 favorite tv show is" [1])
     console.log("My #4 favorite tv show is" [2])
     console.log("My #5 favorite tv show is" [0])
-}
